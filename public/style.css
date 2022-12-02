@@ -1,0 +1,23 @@
+body{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.style{
+
+width: 10em;
+height: 15em;
+background-color: brown;
+}
+
+.main{
+    /* margin-left: 10em; */
+    margin-right: 60em;
+
+}
+
+/* .webcam-container{
+
+    margin-right: 60em;
+
+} */
